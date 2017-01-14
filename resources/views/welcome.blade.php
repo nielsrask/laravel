@@ -81,6 +81,9 @@
                 <div class="title m-b-md">
                     D E N T S U R E
                 </div>
+                <div>
+                    Tandklinikens trygga journalsystem på internet
+                </div>
             </div>
         </div>
     </body>
